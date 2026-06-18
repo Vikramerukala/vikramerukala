@@ -1,7 +1,4 @@
-<!-- 
-  GITHUB PROFILE README for Erukala Vikram
-  Tip: Update the <!-- UPDATE --> comments with your latest info as you grow!
--->
+
 
 <div align="center">
 
